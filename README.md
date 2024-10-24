@@ -20,7 +20,7 @@
     </td>
     <td>
       <p align="center"> 
-        <img src="[https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" width=](https://img.notionusercontent.com/s3/prod-files-secure%2F8d03175e-bac7-4bf9-934d-2b5f94912414%2F8bf7c451-d481-4e76-a313-c8bc289c7c4a%2F4a705e028bb9f5d50995e68c791fb10a.gif/size/?exp=1729765344&sig=I7ntJvb9HU6PZO6CERuwzunwP7CeJDGvAJyW9BRdgjU)"100%"/>
+        <img src="https%3A%2F%2Fi.pinimg.com%2Foriginals%2F15%2F0c%2F97%2F150c97d6a020a688a9a4c24132ebee91.gif"100%"/>
       </p>
     </td>
   </tr>

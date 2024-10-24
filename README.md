@@ -17,8 +17,7 @@ Here are some of the projects I have worked on:
 
 ## Connect with Me
 
-- Email: [your-email@example.com](mailto:your-email@example.com)
-- LinkedIn: [Your LinkedIn Profile](link-to-linkedin)
+- Email: [nguyenvo9102005@gmail.com](mailto:nguyenvo9102005@gmail.com)
 
 Thank you for visiting my GitHub profile! Let’s connect and share ideas!
 

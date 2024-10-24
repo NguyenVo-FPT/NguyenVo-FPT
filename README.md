@@ -1,28 +1,24 @@
-<!-- <img align="left" width="400" src="https://github.githubassets.com/images/modules/profile/profile-first-repo.svg" /> -->
-<img align="right" width="64" src="https://github.com/TienNHM.png" />
-<!-- <img align="right" width="64" src="https://img.icons8.com/color/48/vietnam-circular.png" /> -->
+# Welcome to my GitHub Profile!
 
-<h2 align="center">Hi 👋, I'm NguyenVL</h2>
-<p align="center">
-  <h3 align="center">A passionate developer from Vietnam 🇻🇳 </h3>
-</p>
+I am a student at FPT University in Ho Chi Minh City. I am passionate about programming and always looking for opportunities to enhance my skills in the field of information technology.
 
-> ✍ I'm a student at [FPT University].
+## Programming Languages
 
+- **Java**: I have experience in programming with Java, especially in application development and solving algorithmic problems.
+- **C/C++**: I am also proficient in using C/C++ for software and system development.
 
-## Activities:
+## Featured Projects
 
-<table style="width:100%;">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiennhm&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=Top%20ngôn%20ngữ%20được%20dùng" alt="tiennhm" width="100%"/>
-      <img src="https://github-readme-stats.vercel.app/api?username=tiennhm&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=Hoạt%20động%20trên%20Github" alt="tiennhm" width="100%"/>
-    </td>
-    <td>
-      <p align="center"> 
-        <img src="https%3A%2F%2Fi.pinimg.com%2Foriginals%2F15%2F0c%2F97%2F150c97d6a020a688a9a4c24132ebee91.gif"100%"/>
-      </p>
-    </td>
-  </tr>
-</table>
+Here are some of the projects I have worked on:
+
+- [Project Name 1](link-to-project-1): Brief description of the project.
+- [Project Name 2](link-to-project-2): Brief description of the project.
+- [Project Name 3](link-to-project-3): Brief description of the project.
+
+## Connect with Me
+
+- Email: [your-email@example.com](mailto:your-email@example.com)
+- LinkedIn: [Your LinkedIn Profile](link-to-linkedin)
+
+Thank you for visiting my GitHub profile! Let’s connect and share ideas!
 

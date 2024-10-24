@@ -7,41 +7,8 @@
   <h3 align="center">A passionate developer from Vietnam 🇻🇳 </h3>
 </p>
 
-> ✍ I'm a student at [Utop @ FPT](https://utop.io/).
+> ✍ I'm a student at [FPT University].
 
-<br />
-
-[![Join the chat at https://gitter.im/TienNHM/Github-Profile-Tutorial](https://badges.gitter.im/TienNHM/Github-Profile-Tutorial.svg)](https://gitter.im/TienNHM/Github-Profile-Tutorial?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-![](https://komarev.com/ghpvc/?username=TienNHM&style=flat-square)
-
-## 📫 How to reach me:
-
-<p align="center">
-  <a href="https://linkedin.com/in/tien-nhm" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
-  </a>
-  <a href="https://www.facebook.com/01.tien" alt="Facebook">
-    <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
-  </a> 
-  <a href="https://github.com/TienNHM" alt="Github">
-    <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
-  </a> 
-  <a href="https://www.youtube.com/channel/UCaRr1SjyHm61RrLY-DIBm1g" alt="Youtube channel" target="_blank" >
-    <img src="https://img.icons8.com/fluent/48/000000/youtube-play.png"/>
-  </a>
-  <a href="https://www.kaggle.com/nguyenhuynhminhtien" alt="Kaggle" target="_blank" >
-    <img src="https://img.icons8.com/windows/48/000000/kaggle.png"/>
-  </a>
-  <a href="mailto:tiennhm.it@gmail.com" alt="Email">
-    <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
-  </a>
-</p>
-
-## Skills:
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg alt="opencv" width="48" height="48"/> 
-  <img src="![image](https://github.com/user-attachments/assets/ab01424f-18f0-4aa8-9617-391f6671d302)"/>
-</p>
 
 ## Activities:
 
@@ -53,7 +20,7 @@
     </td>
     <td>
       <p align="center"> 
-        <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" width="100%"/>
+        <img src="[https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" width=](https://img.notionusercontent.com/s3/prod-files-secure%2F8d03175e-bac7-4bf9-934d-2b5f94912414%2F8bf7c451-d481-4e76-a313-c8bc289c7c4a%2F4a705e028bb9f5d50995e68c791fb10a.gif/size/?exp=1729765344&sig=I7ntJvb9HU6PZO6CERuwzunwP7CeJDGvAJyW9BRdgjU)"100%"/>
       </p>
     </td>
   </tr>

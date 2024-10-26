@@ -4,16 +4,9 @@ I am a student at FPT University in Ho Chi Minh City. I am passionate about prog
 
 ## Programming Languages
 
-- **Java**: I have experience in programming with Java, especially in application development and solving algorithmic problems.
-- **C/C++**: I am also proficient in using C/C++ for software and system development.
-
-## Featured Projects
-
-Here are some of the projects I have worked on:
-
-- [Project Name 1](link-to-project-1): Brief description of the project.
-- [Project Name 2](link-to-project-2): Brief description of the project.
-- [Project Name 3](link-to-project-3): Brief description of the project.
+- **Java**: I can use Java with a basic level.
+- **C/C++**: I am also have some experience in using C/C++ for solving algorithic problems.
+- **Python**: Using Python in some simple data processing tasks.
 
 ## Connect with Me
 
